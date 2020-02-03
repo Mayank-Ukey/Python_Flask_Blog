@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri":"mysql://root:@localhost/the_secret",
+    "prod_server_uri":"mysql://root:@localhost/the_secret",
+    "fb_url":"https://facebook.com/the_secret",
+    "tw_url":"https://twitter.com/the_secret",
+    "gt_url":"https://github.com/the_secret",
+    "gmail-user": "mayankukey7@gmail.com",
+    "gmail-password":"P@m30783078",
+    "about_text":"I am Mayank Ukey and I am the best in the world!!, I am an altruistic personality and wanna help others for the most of their benefit.",
+    "no_of_posts":2,
+    "blog_name":"The_Secret",
+    "login_image":"login.svg",
+    "admin_user":"Mayank",
+    "admin_pass":"Nothing_Wrong",
+    "upload_location":"C:\\Users\\mayan\\Blog_Project\\static"
+  }
+}
